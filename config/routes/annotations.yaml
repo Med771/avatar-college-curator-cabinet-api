@@ -1,0 +1,5 @@
+# routes/annotations.yaml
+app:
+  path: /api/
+  controller: App\Controller\ApiController::index
+  methods: [GET]
